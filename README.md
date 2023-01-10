@@ -2,7 +2,7 @@
 
 CLI Todolist written in GO with a nice TUI. Adopted by https://github.com/joefazee/go-toto-app.
 
-
+![Preview Image](https://github.com/amirrezapanahi/todolist/blob/master/assets/todo.png)
 
 ### How to use
 
